@@ -3,7 +3,7 @@
 A condensed two-person demo guide. One person (A) holds and aims the gripper;
 the other (B) operates the keyboard.
 
-## Before the demo (30 min on-site)
+## Before the demo 
 
 1. **Mechanical check** — by hand, rotate the disc and confirm all three fingers move synchronously and smoothly.
 2. **Wiring** — servo → adapter bus port → USB → computer → power LAST. Verify polarity.
@@ -60,8 +60,4 @@ the other (B) operates the keyboard.
 | Servo buzzing | stalling, about to overheat | `[R]` release immediately, or pull power |
 | No response at all | no power / wrong COM | check LED → Device Manager → fix `--port` |
 
-## Mindset
 
-- A glitch is fine — judges care more about how you recover than about a flawless run.
-- If an object fails 3×, skip it; a failed forced attempt costs more than one fewer demo.
-- Keep a phone video of a successful run as a backup.
