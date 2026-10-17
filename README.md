@@ -22,7 +22,7 @@ A fully 3D-printable, low-cost dexterous gripper driven by **a single bus servo*
 | Actuators | 1 bus servo |
 | Degrees of freedom | 6 (driven by 1 motor) |
 | Max opening width | ~90–110 mm |
-| Graspable object size | Ø15–90 mm |
+| Graspable object size | ~50–150 mm |
 | Object weight (typical) | up to a few hundred grams |
 | Structure material | PLA |
 | Fingertip pads | TPU 95A |
